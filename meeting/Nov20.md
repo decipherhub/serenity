@@ -25,6 +25,6 @@ ethereum grant wave 5(?) 리워드
 - client 최적화 : 기존 클라이언트 최적화 되지 않은 부분 분석 및 개선
 
 **다음주 까지**
-- plasma : 유진영(onther), 박성완(debit), 김재윤(**추가바람**)
+- plasma : 유진영(onther), 박성완(debit), 김재윤(bits)
 - serenity : ???(추가바람)
 - client 최적화 : 이더리움 문제점 분석 후 내용 공유
