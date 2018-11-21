@@ -16,8 +16,9 @@ client 최적화: 한겨레, 이규택
 ```
 
 2. 주제별 목표
+
 **공동 목표**
-ethereum grant wave 5(?) 리워드
+- ethereum grant wave 5(?) 리워드
 
 **개별 목표**
 - plasma : 기존 플라즈마 구현체 분석(onther, debit), 새로운 구현체 만들기
