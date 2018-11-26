@@ -27,5 +27,5 @@ client 최적화: 한겨레, 이규택
 
 **다음주 까지**
 - plasma : 유진영(onther), 박성완(debit), 김재윤(bits)
-- serenity : ???(추가바람)
+- serenity : 박찬, 박준모(casper 기본 개념 + beaconchain Casper minispec 정리), 홍상원(sharding)
 - client 최적화 : 이더리움 문제점 분석 후 내용 공유
