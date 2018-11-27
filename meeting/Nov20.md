@@ -22,7 +22,7 @@ client 최적화: 한겨레, 이규택
 
 **개별 목표**
 - plasma : 기존 플라즈마 구현체 분석(onther, debit), 새로운 구현체 만들기
-- serenity : ???(추가바람)
+- serenity : https://notes.ethereum.org/s/H1PGqDhpm 참조
 - client 최적화 : 기존 클라이언트 최적화 되지 않은 부분 분석 및 개선
 
 **다음주 까지**
