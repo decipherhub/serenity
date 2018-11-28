@@ -36,3 +36,7 @@ Plasma MVP 분석
 2. Serenity
 - Sharding (상원)
 - Beacon chain (찬)
+
+## 미팅
+**Parity**
+11/29(목) 20:00 장소 미정
